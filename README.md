@@ -288,7 +288,7 @@ Running it inside Docker keeps the application isolated from the rest of the sys
 
 MySpeed is used to perform regular Internet speed tests.
 
-It helps track:
+It helps to track:
 
 - Download speed
 - Upload speed
@@ -299,7 +299,7 @@ It helps track:
 
 ## 🔎 Network Monitoring
 
-I also run lightweight network-monitoring tools to help understand what devices are connected to the network and whether important services are reachable.
+I also run lightweight network-monitoring tools to understand which devices are connected to the network and whether important services are reachable.
 
 This is useful for both troubleshooting and learning.
 
@@ -645,7 +645,7 @@ Possible future improvements include:
 
 This repository documents my personal homelab for educational purposes.
 
-It is **not** intended to be a production security guide.
+It is **not** intended to serve as a production security guide.
 
 Never copy passwords, API keys, private certificates, internal addresses, firewall rules, or access tokens into a public GitHub repository.
 
