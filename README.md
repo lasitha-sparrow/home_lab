@@ -249,7 +249,7 @@ Home Network
 Private Services
 ```
 
-I consider this an important backup method of accessing the homelab remotely.
+I consider this as an important backup method of accessing the homelab remotely.
 
 ---
 
